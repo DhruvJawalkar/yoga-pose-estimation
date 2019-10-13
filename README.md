@@ -13,6 +13,8 @@ Notebook: [pose-classifier.ipynb](https://github.com/DhruvJawalkar/yoga-pose-est
 
 Model weights: [yoga-asana-classifier.ckpt](https://oregonstate.box.com/s/3qjpb66l3cifqxqpdbx996mgwuwqnv3x)
 
+Image Dataset: [dataset.zip](https://oregonstate.box.com/s/4c5o6gilogogdm9m23tgtop7vw23e9vj) 
+
 ## Pose Estimation part: (Done!)
 
 Notebook: [estimate-pose.ipynb](https://github.com/DhruvJawalkar/yoga-pose-estimation/blob/master/COCO/estimate-pose.ipynb)
