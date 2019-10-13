@@ -4,7 +4,7 @@ Model to classify yoga pose type and estimate joint positions of a person from a
 - Collect and clean image dataset of poses(107 asanas) <b>(Done)</b>
 - Classifier model <b>(Done)</b>
 - DS, pose classifier + joint estimation model at: https://dopelemon.me/yoga-poses.html
-- Pose Estimation model currently borrowed from https://github.com/Hzzone/pytorch-openpose
+- [References](https://github.com/Hzzone/pytorch-openpose)
 ![alt text](https://github.com/DhruvJawalkar/blog/blob/master/app/results/yoga-pose/res-7100780243.png)
 
 ## Pose Classifier model: (107 Asanas, Done!) 
