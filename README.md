@@ -7,6 +7,11 @@ Model to classify yoga pose type and estimate joint positions of a person from a
 - Pose Estimation model currently borrowed from https://github.com/Hzzone/pytorch-openpose
 ![alt text](https://github.com/DhruvJawalkar/blog/blob/master/app/results/yoga-pose/res-7100780243.png)
 
+## Pose Classifier model: (107 Asanas, Done!) 
+
+Notebook: [pose-classifier.ipynb](https://github.com/DhruvJawalkar/yoga-pose-estimation/blob/master/classification-model/pose-classifier.ipynb)
+
+Model weights: [yoga-asana-classifier.ckpt](https://oregonstate.box.com/s/3qjpb66l3cifqxqpdbx996mgwuwqnv3x)
 
 ## Pose Estimation part: (Done!)
 
