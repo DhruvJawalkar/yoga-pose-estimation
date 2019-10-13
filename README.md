@@ -8,7 +8,10 @@ Model to classify yoga pose type and estimate joint positions of a person from a
 ![alt text](https://github.com/DhruvJawalkar/blog/blob/master/app/results/yoga-pose/res-7100780243.png)
 
 
-Pose Estimation part:
+Pose Estimation part: (Done!, Model Trained on COCO 2014 dataset)
+Notebook: https://github.com/DhruvJawalkar/yoga-pose-estimation/blob/master/COCO/estimate-pose.ipynb
+Model weights: https://oregonstate.box.com/s/h8fdt8g1twvlpgooawzxzjnmed2yoouk (model-weights-368.ckpt)
+
 ![alt text](http://cocodataset.org/images/keypoints-splash-big.png)
 - Get join estimation model, training params from OpenPose <b>(Done)</b>
 - OpenPose paper : https://arxiv.org/abs/1812.08008
@@ -22,9 +25,7 @@ Pose Estimation part:
 - Write Loss calculation part <b>(Done)</b>
 - Train model (PAF Stages 1-4) <b>(Done)</b>
 - Train model (Heatmaps Stages 1-2) <b>(Done)</b>
-
-In Progress:
-- Write the inference logic, nms to connect joints from prdicted pafs, heatmaps. 
+- Write the inference logic, nms to connect joints from prdicted pafs, heatmaps. (Done)
 
 Sample Training Image:
 ![alt text](https://github.com/DhruvJawalkar/yoga-pose-estimation/blob/master/COCO/sample-trn-img.png)
