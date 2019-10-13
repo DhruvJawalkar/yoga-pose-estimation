@@ -8,11 +8,11 @@ Model to classify yoga pose type and estimate joint positions of a person from a
 ![alt text](https://github.com/DhruvJawalkar/blog/blob/master/app/results/yoga-pose/res-7100780243.png)
 
 
-Pose Estimation part: (Done!)
+## Pose Estimation part: (Done!)
 
-Notebook: [estimate-pose.ipynb] (https://github.com/DhruvJawalkar/yoga-pose-estimation/blob/master/COCO/estimate-pose.ipynb)
+Notebook: [estimate-pose.ipynb](https://github.com/DhruvJawalkar/yoga-pose-estimation/blob/master/COCO/estimate-pose.ipynb)
 
-Model weights: [model-weights-368.ckpt] (https://oregonstate.box.com/s/h8fdt8g1twvlpgooawzxzjnmed2yoouk)
+Model weights: [model-weights-368.ckpt](https://oregonstate.box.com/s/h8fdt8g1twvlpgooawzxzjnmed2yoouk)
 
 ![alt text](http://cocodataset.org/images/keypoints-splash-big.png)
 - Get join estimation model, training params from OpenPose <b>(Done)</b>
